@@ -1,1 +1,1 @@
-abc
+Exercise project
